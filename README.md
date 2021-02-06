@@ -1,2 +1,1 @@
-# test
-# Arduino
+# Arduino projects
