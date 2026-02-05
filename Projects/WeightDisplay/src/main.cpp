@@ -2,6 +2,8 @@
  Arduino Nano clone based LoadCell
  ATmega328P (New Bootloader)
 
+ -This is the latest version of this project-
+
  SSD1306Ascii can be installed using the library manager.  Newer untagged
  versions may be available on GitHub.
  https://github.com/greiman/SSD1306Ascii
