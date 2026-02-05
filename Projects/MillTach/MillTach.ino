@@ -1,10 +1,10 @@
 /*********************************************************************
 
-Mill tachometer
+ Mill tachometer
 
-SSD1306Ascii can be installed using the library manager.  Newer untagged
-versions may be available on GitHub.
-https://github.com/greiman/SSD1306Ascii
+ SSD1306Ascii can be installed using the library manager.  Newer untagged
+ versions may be available on GitHub.
+ https://github.com/greiman/SSD1306Ascii
 
 *********************************************************************/
 
